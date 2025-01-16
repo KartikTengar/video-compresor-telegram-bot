@@ -1,11 +1,11 @@
 # Video Compressor Bot  
-[![Pyrogram](https://img.shields.io/badge/Pyrogram-2.0-blue?style=for-the-badge&logo=python)](https://docs.pyrogram.org/)  [![FFmpeg](https://img.shields.io/badge/FFmpeg-5.1-green?style=for-the-badge&logo=ffmpeg)](https://www.ffmpeg.org/)  [![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python)](https://www.python.org/)  
+![Pyrogram](https://img.shields.io/badge/Pyrogram-2.0-blue?style=for-the-badge&logo=python)  ![FFmpeg](https://img.shields.io/badge/FFmpeg-5.1-green?style=for-the-badge&logo=ffmpeg)  ![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python)  
 
 
 
 ## 🎥 Introduction  
-### **Video Compressor Bot** is an advanced Telegram bot designed to compress videos while maintaining high quality. It is optimized for restricted environments and offers a wide range of features for seamless user interaction.  
-#### Here is my bot link  [Video compressor](https://t.me/video_compressorxbot?start=_tgr_3QQJAbE5MjE0), I hope the bot still running on the server when you read this .
+**Video Compressor Bot** is an advanced Telegram bot designed to compress videos while maintaining high quality. It is optimized for restricted environments and offers a wide range of features for seamless user interaction.  
+Here is my bot link  [Video compressor](https://t.me/video_compressorxbot?start=_tgr_3QQJAbE5MjE0), I hope the bot still running on the server when you read this .
 ---
 
 ## ⚡ Key Features  
@@ -118,6 +118,20 @@ python ThreadOptimizer.py
 This script helps identify the optimal thread count for FFmpeg compression on your server.  
 - Tests compression speed and performance for different thread counts.  
 - Outputs the best configuration for efficient processing.  
+
+---
+## 📷 Screenshots  
+
+### Key Features in Action
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="screenshots/join_thumb.jpg" alt="Forced Channel Join" width="30%">
+  <img src="screenshots/language_thumb.jpg" alt="Multi-Language Support" width="30%">
+  <img src="screenshots/enter.jpg" alt="Video Compression Flow" width="30%">
+  <img src="screenshots/queue_thumb.jpg" alt="Queue Management" width="30%">
+  <img src="screenshots/compression_thumb.jpg" alt="Video Compression Flow" width="30%">
+  <img src="screenshots/comperssion.jpg" alt="Compression" width="30%">
+</div>
 
 ---
 
