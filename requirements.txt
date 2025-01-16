@@ -1,0 +1,7 @@
+imageio==2.36.1
+imageio-ffmpeg==0.5.1
+numpy==2.2.1
+psutil==6.1.1
+pyaes==1.6.1
+Pyrogram==2.0.106
+

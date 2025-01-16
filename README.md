@@ -1,5 +1,5 @@
 # Video Compressor Bot  
-![Pyrogram](https://img.shields.io/badge/Pyrogram-2.0-blue?style=for-the-badge&logo=python)  ![FFmpeg](https://img.shields.io/badge/FFmpeg-5.1-green?style=for-the-badge&logo=ffmpeg)  ![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python)  
+[![Pyrogram](https://img.shields.io/badge/Pyrogram-2.0-blue?style=for-the-badge&logo=python)](https://docs.pyrogram.org/)  [![FFmpeg](https://img.shields.io/badge/FFmpeg-5.1-green?style=for-the-badge&logo=ffmpeg)](https://www.ffmpeg.org/)  [![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python)](https://www.python.org/)  
 
 
 
