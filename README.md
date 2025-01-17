@@ -4,8 +4,8 @@
 
 
 ## 🎥 Introduction  
-**Video Compressor Bot** is an advanced Telegram bot designed to compress videos while maintaining high quality. It is optimized for restricted environments and offers a wide range of features for seamless user interaction.  
-Here is my bot link  [Video compressor](https://t.me/video_compressorxbot?start=_tgr_3QQJAbE5MjE0), I hope the bot still running on the server when you read this .
+#### **Video Compressor Bot** is an advanced Telegram bot designed to compress videos while maintaining high quality. It is optimized for restricted environments and offers a wide range of features for seamless user interaction.  
+#### Here is my bot link  [Video compressor](https://t.me/video_compressorxbot?start=_tgr_3QQJAbE5MjE0), I hope the bot still running on the server when you read this .
 ---
 
 ## ⚡ Key Features  
