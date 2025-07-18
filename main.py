@@ -10,6 +10,10 @@ import imageio_ffmpeg as ffmpeg
 from collections import deque
 import asyncio
 from typing import Dict, Any
+import os
+os.system("wget https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz && \
+tar -xf ffmpeg-release-amd64-static.tar.xz && \
+mv ffmpeg-*/ffmpeg /usr/local/bin/ffmpeg")
 
 TRANSLATIONS = {
     'fa': {
