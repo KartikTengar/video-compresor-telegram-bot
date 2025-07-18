@@ -3,6 +3,10 @@ from pyrogram import Client, filters
 from pyrogram.errors import UserNotParticipant
 from pyrogram.filters import caption
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+import os
+os.system("wget https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz && \
+tar -xf ffmpeg-release-amd64-static.tar.xz && \
+mv ffmpeg-*/ffmpeg /usr/local/bin/ffmpeg")
 import time
 import json
 from typing import Dict, Optional
@@ -10,10 +14,7 @@ import imageio_ffmpeg as ffmpeg
 from collections import deque
 import asyncio
 from typing import Dict, Any
-import os
-os.system("wget https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz && \
-tar -xf ffmpeg-release-amd64-static.tar.xz && \
-mv ffmpeg-*/ffmpeg /usr/local/bin/ffmpeg")
+
 
 TRANSLATIONS = {
     'fa': {
