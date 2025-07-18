@@ -143,11 +143,11 @@ language_manager = LanguageManager()
 
 # Set your API ID and Hash from my.telegram.org
 
-api_id = "YOUR_API_ID"
-api_hash = "YOUR_API_HASH"
-bot_token = "YOUR_BOT_TOKEN"
-admin_id = "Your_ID"
-DataBaseChannel_id = "YOUR_DATABASE_CHANNEL_ID"
+api_id = "2485645"
+api_hash = "f038eeca9f775ec982ba3b51ee701f23"
+bot_token = "8103965583:AAFnvcgHSHFOUPdapuziyPQO2qqbZBFFDyw"
+admin_id = "1256464745"
+DataBaseChannel_id = "1002773968885"
 
 
 app = Client("my_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
